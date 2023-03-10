@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.blocktalk.top/2023/01/27/2023/202301/spring-festival/</loc>
+    
+    <lastmod>2023-01-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.blocktalk.top/2023/01/16/2023/202301/distant-savior/</loc>
+    
+    <lastmod>2023-01-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.blocktalk.top/2023/01/09/2023/202301/2022-summary/</loc>
     
     <lastmod>2023-01-09</lastmod>
@@ -94,7 +112,7 @@
 
   <url>
     <loc>http://blog.blocktalk.top/</loc>
-    <lastmod>2023-01-09</lastmod>
+    <lastmod>2023-01-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,21 +120,28 @@
   
   <url>
     <loc>http://blog.blocktalk.top/tags/test/</loc>
-    <lastmod>2023-01-09</lastmod>
+    <lastmod>2023-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.blocktalk.top/tags/%E9%98%85%E8%AF%BB-%E6%94%B6%E8%B4%A7/</loc>
-    <lastmod>2023-01-09</lastmod>
+    <lastmod>2023-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.blocktalk.top/tags/%E9%98%85%E8%AF%BB/</loc>
-    <lastmod>2023-01-09</lastmod>
+    <lastmod>2023-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.blocktalk.top/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2023-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -125,14 +150,21 @@
   
   <url>
     <loc>http://blog.blocktalk.top/categories/about/</loc>
-    <lastmod>2023-01-09</lastmod>
+    <lastmod>2023-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.blocktalk.top/categories/Diary/</loc>
-    <lastmod>2023-01-09</lastmod>
+    <lastmod>2023-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.blocktalk.top/categories/book/</loc>
+    <lastmod>2023-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
